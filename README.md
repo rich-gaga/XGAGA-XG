@@ -111,4 +111,10 @@
     <br>
 <a href='https://xgaga-session.onrender.com' target="_blank"><img alt='SESSION ID' src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
 
+<br>
+2. Now Deploy ON HEROKU 
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/rich-gaga/XGAGA XG/tree/main' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/DEPLOY NOW-h?color=green&style=for-the-badge&logo=XGAGA" width="220" height="38.45"/></a>
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
